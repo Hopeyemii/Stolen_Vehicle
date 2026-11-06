@@ -22,8 +22,9 @@ The data cleaning and preparation process involved:
 8.	Replacing missing categorical values with Unknown, while retaining missing numerical values rather than assigning unsupported values.
 
 ## Key Performance Indicator(KPI)
-Total Population	5,123,200
-Total Vehicle theft	4,553
+Total Population: 5,123,200
+
+Total Vehicle theft:	4,553
 
 ## Key Findings 
 ### Regional Distribution:
